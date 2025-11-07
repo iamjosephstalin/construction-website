@@ -147,6 +147,14 @@ export const PROJECTS_DATA: Project[] = [
   }
 ];
 
+// Contact Information
+export const CONTACT_INFO = {
+  phone: "1234567890", // Replace with actual WhatsApp number (with country code, no + or spaces)
+  whatsappMessage: "Hello! I'm interested in your construction services. Can you help me?",
+  email: "contact@demobuilders.com",
+  address: "123 Builder Street, Construction City, BC 12345"
+};
+
 export const TESTIMONIALS_DATA: Testimonial[] = [
     {
         id: 1,

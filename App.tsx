@@ -8,6 +8,7 @@ import Testimonials from './components/Testimonials';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 import LoadingScreen from './components/LoadingScreen';
+import WhatsAppFloat from './components/WhatsAppFloat';
 
 const App: React.FC = () => {
   useEffect(() => {
@@ -50,6 +51,7 @@ const App: React.FC = () => {
           <Contact />
         </main>
         <Footer />
+        <WhatsAppFloat showOnScroll={false} />
       </div>
     </>
   );
