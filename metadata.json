@@ -1,5 +1,8 @@
 {
-  "name": "Demo Builders Website",
-  "description": "A modern, elegant, and high-impact website template for Demo Builders, a construction and infrastructure development company specializing in residential, commercial, and industrial building projects."
+  "name": "AG Builders Website",
+  "description": "A modern, elegant, and high-impact website template for AG Builders, a construction and infrastructure development company specializing in residential, commercial, and industrial building projects.",
+  "version": "1.0.0",
+  "author": "AG Builders",
+  "keywords": ["construction", "building", "architecture", "residential", "commercial", "industrial"],
   "requestFramePermissions": []
 }
